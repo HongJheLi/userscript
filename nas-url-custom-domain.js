@@ -9,7 +9,6 @@
 // @match          https://hpyi.quickconnect.to*
 // @match          https://hpyi.synology.me*
 // @grant          none
-// @namespace https://greasyfork.org/users/162820
 // ==/UserScript==
 
 ;(function () {
